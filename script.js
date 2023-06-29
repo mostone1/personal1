@@ -19,7 +19,3 @@ function animateButton() {
   gameButton.classList.add('animate');
 }
 
-function playSound(soundFile) {
-  audio.src = soundFile;
-  audio.play();
-}
